@@ -4,5 +4,7 @@
     </a>
 </p>
 
-<h2 align="center"><b>TASA-Ed Studio</b></h2>
+<h2 align="center"><b>TASA-Ed 工作室 | TASA-Ed Studio</b></h2>
 
+- [官方网站 | Official Website](https://www.tasaed.top/)
+- [关于我们 | About Us](https://wiki.tasaed.top/zh/wiki/tasaed)
