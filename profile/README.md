@@ -6,5 +6,5 @@
 
 <h2 align="center"><b>TASA-Ed 工作室 | TASA-Ed Studio</b></h2>
 
-- [官方网站 | Official Website](https://www.tasaed.top/) （因为网站正在中国大陆备案，暂时无法访问！）
+- [官方网站 | Official Website](https://www.tasaed.top/)
 - [关于我们 | About Us](https://wiki.tasaed.top/wiki/tasaed.html)
